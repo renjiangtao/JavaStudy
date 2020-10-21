@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f70adb0-980d-467a-a747-3b300187f7b0" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -55,6 +60,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -63,6 +69,81 @@
                 <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               </first_editor>
               <second_editor />
+=======
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringCalculate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/StringCalculate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="84" column="94" selection-start-line="84" selection-start-column="94" selection-end-line="84" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradle.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/opt/jdk1.8.0_161/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="167" column="35" lean-forward="true" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="char码值.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/char码值.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="37" column="12" selection-start-line="37" selection-end-line="37" selection-end-column="12" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
             </state>
           </provider>
         </entry>
@@ -78,11 +159,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+=======
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -401,7 +485,10 @@
         <option value="$PROJECT_DIR$/src/main/java/day1/StringCalculate.java" />
         <option value="$PROJECT_DIR$/src/main/java/day1/BubbleSort.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/README.md" />
+=======
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
       </list>
     </option>
   </component>
@@ -431,6 +518,7 @@
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -448,6 +536,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+=======
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
           </expand>
           <select />
         </subPane>
@@ -585,12 +675,20 @@
       <updated>1603122812101</updated>
       <workItem from="1603122833725" duration="3453000" />
       <workItem from="1603203900884" duration="1169000" />
+<<<<<<< HEAD
       <workItem from="1603290443628" duration="9354000" />
+=======
+      <workItem from="1603290443628" duration="8191000" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="13976000" />
+=======
+    <option name="totallyTimeSpent" value="12813000" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1004" extended-state="6" />
@@ -607,7 +705,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33103448" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48850575" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32988507" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17075774" />
@@ -713,7 +815,11 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
+<<<<<<< HEAD
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+=======
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
         </state>
       </provider>
     </entry>
@@ -727,14 +833,22 @@
     <entry file="jar://$USER_HOME$/opt/jdk1.8.0_161/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
+<<<<<<< HEAD
           <caret line="167" column="35" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+=======
+          <caret line="167" column="35" lean-forward="true" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/day1/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
+<<<<<<< HEAD
           <caret line="32" selection-start-line="32" selection-end-line="32" />
+=======
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -760,6 +874,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -770,6 +885,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6c2dd635e81f831df38c7e9976aca89a6e99ea6b
   </component>
   <component name="masterDetails">
     <states>

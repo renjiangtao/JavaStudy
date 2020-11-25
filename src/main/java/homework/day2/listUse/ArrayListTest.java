@@ -1,4 +1,4 @@
-package day2.listUse;
+package homework.day2.listUse;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -10,7 +10,7 @@ public class InsertSort {
         Arrays.stream(ints).forEach(System.out::println);
 
     }
-
+//测试汉子试试
 
     public static int[] insertSort(int[] array) {
         for (int i = 1; i < array.length; i++) {

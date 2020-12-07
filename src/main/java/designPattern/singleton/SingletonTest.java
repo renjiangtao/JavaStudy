@@ -1,7 +1,7 @@
 package designPattern.singleton;
 
-import org.junit.Test;
 import org.testng.Assert;
+import org.testng.annotations.Test;
 
 public class SingletonTest {
 

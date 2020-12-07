@@ -1,6 +1,8 @@
 package homework.day6.streamTest;
 
-import org.junit.Test;
+
+
+import org.testng.annotations.Test;
 
 import java.util.*;
 import java.util.function.Function;

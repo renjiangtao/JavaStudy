@@ -1,0 +1,8 @@
+1. web路径
+server.servlet.context-path的路径+类上面个requestMapping+方法上的requestMapping
+
+1. 拦截器和过滤器
+filter(过滤器) ->  interceptor（拦截器） -> aop -> 业务
+    1. filter是servlet提供的，并且在servlet之前执行的。 所以filter中不能直接使用注入的类
+    2. 拦截器是spring提供给我们的
+    3. aop是更深层次的（可以拦截到具体的方法）

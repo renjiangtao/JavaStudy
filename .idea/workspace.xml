@@ -22,26 +22,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f70adb0-980d-467a-a747-3b300187f7b0" name="Default" comment="提交工厂模式设计模式">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/SpringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/aop/ServiceAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/config/FileterConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/config/InterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/filter/MyWebFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/interceptor/MyHandlerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/service/FixedTimePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/day08/service/impl/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/homework/day08/dao/StudentDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/springboot.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/day08/ServiceTest.java" afterDir="false" />
+    <list default="true" id="8f70adb0-980d-467a-a747-3b300187f7b0" name="Default" comment="新增springboot使用，包含过滤器，拦截器，aop，spring-boot-web，spring-boot-jdbc">
+      <change afterPath="$PROJECT_DIR$/day09-mybatis-xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09-mybatis-xml/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09-mybatis-xml/src/test/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/bridgeModel/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/bridgeModel/FoldedPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/bridgeModel/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/bridgeModel/UpRightPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/bridgeModel/Vivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/bridgeModel/XiaoMi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/sort/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +89,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\installPath\ideaIU-2020.2.1.win\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1kHnirxnko9NZsmzgMDeWlbZk5J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -105,6 +105,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -113,7 +114,8 @@
     <property name="SearchEverywhereHistoryKey" value="HashSet&#9;FILE&#9;jar:///home/nickren/opt/jdk1.8.0_161/src.zip!/java/util/HashSet.java&#10;List&#9;FILE&#9;jar:///home/nickren/opt/jdk1.8.0_161/src.zip!/java/util/List.java&#10;Hashset&#9;FILE&#9;jar:///home/nickren/opt/jdk1.8.0_161/src.zip!/java/util/HashSet.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/designPattern/factoryModel/abstractFactory" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day09-mybatis-xml/src/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -129,10 +131,13 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JavaProject\JavaStudy\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="homework.day6.factory" />
+      <recent name="designPattern.factoryModel.factoryMethod" />
+      <recent name="designPattern.factoryModel.simpleFactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\JavaStudy\day09-mybatis-xml\src\test" />
       <recent name="D:\JavaProject\JavaStudy\src\main\java\designPattern\factoryModel\abstractFactory" />
       <recent name="D:\JavaProject\JavaStudy\src\main\java\designPattern\factoryModel\factoryMethod" />
     </key>
@@ -140,13 +145,11 @@
       <recent name="designPattern.factoryModel.factoryMethod" />
       <recent name="designPattern.singleton" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="homework.day6.factory" />
-      <recent name="designPattern.factoryModel.factoryMethod" />
-      <recent name="designPattern.factoryModel.simpleFactory" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\JavaStudy\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringMain">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPattern.buildModel.Client" />
       <module name="JavaStudy.main" />
@@ -161,21 +164,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.QuickSort" />
+      <module name="JavaStudy.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,24 +200,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="homework.day08.SpringMain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactoryTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaStudy.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day6.factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homework.day6.factory" />
-      <option name="MAIN_CLASS_NAME" value="homework.day6.factory.FactoryTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -267,18 +253,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
-      <item itemvalue="TestNG.FactoryTest" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Spring Boot.SpringMain" />
       <item itemvalue="TestNG.FileStudy.pathSeparator" />
       <item itemvalue="TestNG.FileStudy.getPath" />
-      <item itemvalue="Spring Boot.SpringMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Spring Boot.SpringMain" />
         <item itemvalue="TestNG.FileStudy.getPath" />
         <item itemvalue="TestNG.FileStudy.pathSeparator" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="TestNG.FactoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +311,19 @@
       <workItem from="1607763443323" duration="11000" />
       <workItem from="1607763485417" duration="902000" />
       <workItem from="1607822864151" duration="2833000" />
-      <workItem from="1608427049773" duration="23561000" />
+      <workItem from="1608427049773" duration="27419000" />
+      <workItem from="1608513802017" duration="17000" />
+      <workItem from="1608513849404" duration="4242000" />
+      <workItem from="1608558681795" duration="1027000" />
+      <workItem from="1609032504922" duration="4097000" />
+      <workItem from="1609083931175" duration="2000" />
+      <workItem from="1609288364631" duration="7000" />
+      <workItem from="1609336552702" duration="1327000" />
+      <workItem from="1609550382851" duration="1587000" />
+      <workItem from="1610280673955" duration="843000" />
+      <workItem from="1610290507466" duration="246000" />
+      <workItem from="1610374353752" duration="2398000" />
+      <workItem from="1610456920594" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="提交部分算法内容">
       <created>1606320483083</created>
@@ -376,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607763626077</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="新增springboot使用，包含过滤器，拦截器，aop，spring-boot-web，spring-boot-jdbc">
+      <created>1608476569897</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608476569897</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,67 +400,71 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="提交部分算法内容" />
     <MESSAGE value="提交工厂模式设计模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交工厂模式设计模式" />
+    <MESSAGE value="新增springboot使用，包含过滤器，拦截器，aop，spring-boot-web，spring-boot-jdbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增springboot使用，包含过滤器，拦截器，aop，spring-boot-web，spring-boot-jdbc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="502" y="235" key="#Notifications" timestamp="1606405371550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="502" y="235" key="#Notifications/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1606405371550" />
-    <state x="2200" y="4" key="#Project_Structure" timestamp="1608456232675">
+    <state x="269" y="0" key="#Project_Structure" timestamp="1610280679583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="269" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1610280679583" />
+    <state x="2200" y="4" key="#Project_Structure/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1609033306118" />
+    <state x="630" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1610376774718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="630" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1610376774718" />
+    <state x="2576" y="197" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606633606889" />
+    <state x="2492" y="100" key="FileChooserDialogImpl" timestamp="1609554387495">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state x="2200" y="4" key="#Project_Structure/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608456232675" />
-    <state x="630" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1608467675686">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="630" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608467675686" />
-    <state x="2576" y="197" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606633606889" />
-    <state x="549" y="96" key="FileChooserDialogImpl" timestamp="1607258048195">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
     <state x="549" y="96" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1607258048195" />
-    <state width="1493" height="471" key="GridCell.Tab.0.bottom" timestamp="1608476344277">
+    <state x="2492" y="100" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1609554387495" />
+    <state width="1493" height="370" key="GridCell.Tab.0.bottom" timestamp="1608559816951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344277" />
+    <state width="1493" height="370" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608559816951" />
     <state width="1557" height="564" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490506" />
-    <state width="1493" height="471" key="GridCell.Tab.0.center" timestamp="1608476344277">
+    <state width="1493" height="370" key="GridCell.Tab.0.center" timestamp="1608559816951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344277" />
+    <state width="1493" height="370" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608559816951" />
     <state width="1557" height="564" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490506" />
-    <state width="1493" height="471" key="GridCell.Tab.0.left" timestamp="1608476344276">
+    <state width="1493" height="370" key="GridCell.Tab.0.left" timestamp="1608559816950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344276" />
+    <state width="1493" height="370" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608559816950" />
     <state width="1557" height="564" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490506" />
-    <state width="1493" height="471" key="GridCell.Tab.0.right" timestamp="1608476344277">
+    <state width="1493" height="370" key="GridCell.Tab.0.right" timestamp="1608559816951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344277" />
+    <state width="1493" height="370" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608559816951" />
     <state width="1557" height="564" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490506" />
-    <state width="1493" height="471" key="GridCell.Tab.1.bottom" timestamp="1608476344277">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1608522360724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344277" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608522360724" />
     <state width="1557" height="564" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490507" />
-    <state width="1493" height="471" key="GridCell.Tab.1.center" timestamp="1608476344277">
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1608522360724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344277" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608522360724" />
     <state width="1557" height="564" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490507" />
-    <state width="1493" height="471" key="GridCell.Tab.1.left" timestamp="1608476344277">
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1608522360724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344277" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608522360724" />
     <state width="1557" height="564" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490506" />
-    <state width="1493" height="471" key="GridCell.Tab.1.right" timestamp="1608476344277">
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1608522360724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476344277" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608522360724" />
     <state width="1557" height="564" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1608455490507" />
     <state x="349" y="147" key="IDE.errors.dialog" timestamp="1608470557271">
       <screen x="0" y="0" width="1536" height="824" />
@@ -466,23 +475,24 @@
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608468289678" />
     <state x="2201" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1606635943300" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607763628500">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1608476953720">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1607763628500" />
-    <state x="579" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608463373986">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476953720" />
+    <state x="579" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608476483006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="579" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608463373986" />
+    <state x="579" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608476483006" />
     <state x="2523" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1605407884410" />
-    <state x="311" y="148" width="913" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606577325239">
+    <state x="311" y="148" width="913" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608480315045">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="311" y="148" width="913" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1606577325239" />
-    <state x="178" y="73" key="new project wizard" timestamp="1607764394262">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="311" y="148" width="913" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1608480315045" />
+    <state x="2105" y="76" key="new project wizard" timestamp="1609554443846">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="178" y="73" key="new project wizard/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1607764394262" />
+    <state x="2105" y="76" key="new project wizard/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1609554443846" />
     <state x="545" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1608464614898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -498,6 +508,10 @@
         <breakpoint type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
